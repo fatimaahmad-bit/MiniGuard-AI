@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+Flask
+playsound
+smtplib
+email
+numpy
