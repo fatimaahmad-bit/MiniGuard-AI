@@ -53,9 +53,10 @@ pip install -r requirements.txt
 ## Running the Application
 
 To start the system:
-
-python miniguardai.py
-
+- Run the backend using cmd.
+- Start the GUI.py file and run it.
+- Click the START MONITORING button. 
+Now,
 The system will start detecting objects through your webcam.
 
 If a dangerous object is detected near the child, an alarm will sound, and an email notification will be sent.
